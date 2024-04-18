@@ -114,7 +114,11 @@ nav.grid a:hover {
   background-color: #d4d4d4;
   color: black;
 }
-
-footer {
-  font-size: 1px;
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  height: 50px;
 }
